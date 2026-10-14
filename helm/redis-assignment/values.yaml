@@ -1,6 +1,7 @@
+
 app:
   name: python-api
-  replicas: 1
+  replicas: 2
   image: python-api:latest
   imagePullPolicy: Never
   containerPort: 8000
