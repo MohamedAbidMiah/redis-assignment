@@ -1,0 +1,6 @@
+apiVersion: v2
+name: redis-assignment
+description: FastAPI application with Redis for a Kubernetes learning lab
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
